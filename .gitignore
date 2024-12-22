@@ -1,3 +1,2 @@
-Bufer/Bufer/x64/
-Bufer/x64/
-Bufer/.vs/
+Bufer/
+!Bufer/Bufer/Bufer.cpp
